@@ -7,6 +7,6 @@
 </head>
 <body>
 <a-scene>
-<a-box color='white' depth='1' height='1' width='1'>< a-animation attribute = "visible" dur = "5000" to = "false" repeat = "indefinite" > </ a-animation ></a-box>
+<a-box color='white' depth='1' height='1' width='1'a-animation attribute = "visible" dur = "5000" to = "false" repeat = "indefinite" ></a-box>
 </a-scene>
 </body>
