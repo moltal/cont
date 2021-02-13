@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='utf-8'>
+<title>Orthoverse Animation Test</title>
+<meta name='description' content='Orthoverse Animation Test'>
+</head>
+<body bounds="center: 0.5 0.5 0; size: 1 1 0.05;">
+<a-scene>
+
+<a-entity text="value: Hello World!;"></a-entity>
+<a-entity text="value: あと時刻５分;"></a-entity>
+
+</a-scene>
+</body>
