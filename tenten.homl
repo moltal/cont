@@ -7,6 +7,6 @@
 </head>
 <body>
 <a-scene>
-<a-box  position='-0.3 0 0' animation='property: object3D.position.z; to: 2; dur: 3000; loop: true; easing: linear;' color='white' depth='0.4' height='0.2' width='0.2'></a-box>
+<a-box  position='-0.3 0 0' animation='property: object3D.position.z; to: 2; dur: 3000; loop: true; easing: linear; fog: true' color='light blue' depth='0.4' height='0.2' width='0.2'></a-box>
 </a-scene>
 </body>
