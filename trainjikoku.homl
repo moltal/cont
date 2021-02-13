@@ -8,7 +8,7 @@
 <body>
 <a-scene>
 <a-assets>
-<img id="trainjikoku" src="https://github.com/moltal/cont/blob/main/%E5%9B%B32.png">
+<img id="test" src="https://3.bp.blogspot.com/-Qgaed374Dcs/VtlMwoqu74I/AAAAAAAA4VU/JNzq8TSeQ-4/s800/ar_kakuchou_genjitsu.png">
 </a-assets>
 <a-entity geometry="primitive: plane" material="src: #test" rotation="0 180 0"></a-entity>
 </a-scene>
