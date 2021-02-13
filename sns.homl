@@ -8,7 +8,7 @@
 <body>
 <a-scene>
 <a-assets>
-<img id="test" src="https://moltal.github.io/cont/1a.png">
+<img id="test" src="https://moltal.github.io/cont/a1.png">
 </a-assets>
 <a-entity geometry="primitive: plane" material="src: #test" rotation="0 180 0"></a-entity>
 </a-scene>
